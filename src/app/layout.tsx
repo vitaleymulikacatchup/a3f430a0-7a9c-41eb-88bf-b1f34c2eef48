@@ -10,24 +10,24 @@ const sora = Sora({
 });
 
 export const metadata: Metadata = {
-  title: "Brew Haven | Premium Specialty Coffee Shop",
-  description: "Discover ethically sourced, expertly roasted coffee at Brew Haven. Experience specialty coffee crafted by skilled baristas in our welcoming cafe.",
+  title: "SUper Duper Coffee | Premium Specialty Coffee Shop",
+  description: "Discover ethically sourced, expertly roasted coffee at SUper Duper Coffee. Experience specialty coffee crafted by skilled baristas in our welcoming cafe.",
   keywords: "specialty coffee, espresso, cappuccino, cafe, coffee shop, ethically sourced",
   openGraph: {
-    title: "Brew Haven | Premium Specialty Coffee",
-    description: "Discover ethically sourced, expertly roasted coffee at Brew Haven.",
-    siteName: "Brew Haven",
+    title: "SUper Duper Coffee | Premium Specialty Coffee",
+    description: "Discover ethically sourced, expertly roasted coffee at SUper Duper Coffee.",
+    siteName: "SUper Duper Coffee",
     type: "website",
     images: [
       {
         url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764675483271-taj0uokk.jpg",
-        alt: "Brew Haven specialty coffee"
+        alt: "SUper Duper Coffee specialty coffee"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "Brew Haven | Premium Specialty Coffee",
+    title: "SUper Duper Coffee | Premium Specialty Coffee",
     description: "Discover ethically sourced, expertly roasted coffee",
     images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764675483271-taj0uokk.jpg"]
   },

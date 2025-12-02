@@ -27,7 +27,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingOverlay
-          brandName="Brew Haven"
+          brandName="SUper Duper Coffee"
           navItems={[
             { name: "Home", id: "hero" },
             { name: "Menu", id: "menu" },
@@ -41,7 +41,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardCarousel
-          title="Brew Haven"
+          title="SUper Duper Coffee"
           description="Discover the perfect blend. Premium coffee crafted with passion and served with care."
           tag="Specialty Coffee"
           mediaItems={[
@@ -77,7 +77,7 @@ export default function LandingPage() {
         <AboutPhoneTimeline
           tag="Our Story"
           title="Crafted With Passion"
-          description="Since 2015, Brew Haven has been dedicated to sourcing the finest coffee beans from ethical producers around the world. We believe in quality, sustainability, and creating a welcoming space where coffee lovers can connect."
+          description="Since 2015, SUper Duper Coffee has been dedicated to sourcing the finest coffee beans from ethical producers around the world. We believe in quality, sustainability, and creating a welcoming space where coffee lovers can connect."
           phoneOne={{
             imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1764675506442-atd963cn.jpg",
             imageAlt: "Cozy modern coffee shop interior"
@@ -135,7 +135,7 @@ export default function LandingPage() {
 
       <div id="features" data-section="features">
         <FeatureCardFour
-          title="Why Choose Brew Haven"
+          title="Why Choose SUper Duper Coffee"
           description="We stand out through quality, care, and community"
           tag="Our Values"
           textboxLayout="default"
@@ -222,8 +222,8 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterSocial
-          logoText="Brew Haven"
-          copyrightText="© Brew Haven Coffee, 2025. All rights reserved."
+          logoText="SUper Duper Coffee"
+          copyrightText="© SUper Duper Coffee, 2025. All rights reserved."
           columns={[
             {
               title: "Cafe",
